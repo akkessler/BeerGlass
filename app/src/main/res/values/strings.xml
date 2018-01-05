@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeerGlass</string>
+
+    <string name="title_beer">Beer</string>
+    <string name="title_style">Style</string>
+    <string name="title_glass">Glass</string>
+
+    <string name="hint_beer">Enter a beer name.</string>
+    <string name="hint_style">Enter a style of beer.</string>
+    <string name="hint_glass">Enter a glass type.</string>
+
+    <string name="item_beer_name">Example beer name</string>
+    <string name="item_beer_desc">IPA (India Pale Ale)</string>
+</resources>
